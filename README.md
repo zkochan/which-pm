@@ -1,5 +1,7 @@
 # which-pm
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/which-pm.svg)](https://greenkeeper.io/)
+
 > Detects what package manager was used for installation
 
 [![npm version](https://img.shields.io/npm/v/which-pm.svg)](https://www.npmjs.com/package/which-pm) [![Build Status](https://img.shields.io/travis/zkochan/which-pm/master.svg)](https://travis-ci.org/zkochan/which-pm)
