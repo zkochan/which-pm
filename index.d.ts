@@ -16,9 +16,9 @@ declare namespace whichpm {
     readonly version: string
   }
 
-  interface ScopedPNPM {
-    readonly name: '@zkochan/pnpm'
-    readonly version: string
+  interface Other {
+    readonly name: string
+    readonly version?: string
   }
 }
 
