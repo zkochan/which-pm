@@ -1,3 +1,5 @@
+> This package has been move to https://github.com/zkochan/packages/tree/master/which-pm
+
 # which-pm
 
 > Detects what package manager was used for installation
